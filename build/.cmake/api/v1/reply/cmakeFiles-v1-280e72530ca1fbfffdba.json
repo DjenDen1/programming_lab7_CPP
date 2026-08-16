@@ -1754,24 +1754,6 @@
 		{
 			"isExternal" : true,
 			"path" : "C:/msys64/mingw64/lib/cmake/boost_system-1.89.0/boost_system-targets.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/msys64/mingw64/share/cmake/Modules/CPack.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/msys64/mingw64/share/cmake/Modules/CPackComponent.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/msys64/mingw64/share/cmake/Templates/CPackConfig.cmake.in"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/msys64/mingw64/share/cmake/Templates/CPackConfig.cmake.in"
 		}
 	],
 	"kind" : "cmakeFiles",
