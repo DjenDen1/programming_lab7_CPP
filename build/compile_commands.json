@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/CPP2025/lab7/build",
-  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DBOOST_CONTAINER_NO_LIB -DBOOST_CONTAINER_STATIC_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_FILESYSTEM_STATIC_LINK=1 -DBOOST_PROGRAM_OPTIONS_NO_LIB -DBOOST_PROGRAM_OPTIONS_STATIC_LINK -IC:/CPP2025/lab7/core -IC:/CPP2025/lab7/program_struct -g -o CMakeFiles\\bayan.dir\\main.cpp.obj -c C:\\CPP2025\\lab7\\main.cpp",
-  "file": "C:/CPP2025/lab7/main.cpp",
-  "output": "C:/CPP2025/lab7/build/CMakeFiles/bayan.dir/main.cpp.obj"
-}
-]

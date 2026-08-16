@@ -31,7 +31,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: windows-build
-          path: build/Release/lab7.exe 
+          path: build/Release/bayan.exe 
 
   build-linux:
     runs-on: ubuntu-latest
@@ -57,7 +57,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: linux-build
-          path: build/lab7
+          path: build/bayan
 
   create-release:
     needs: [build-windows, build-linux]
@@ -84,7 +84,7 @@ jobs:
           draft: false
           prerelease: false
           files: |
-            windows-artifact/lab7.exe
-            linux-artifact/lab7
+            windows-artifact/bayan.exe
+            linux-artifact/bayan
           body: |
             Laboratory 4 Release v${{ github.run_number }}
