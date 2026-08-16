@@ -1,15 +1,10 @@
 {
   "name": "lab7",
   "version-string": "0.1.0",
+  "builtin-baseline": "364db31d8e15112fa0b074a3f5a89fb3bebe0365",
   "dependencies": [
-    {
-      "name": "boost-program-options"
-    },
-    {
-      "name": "boost-filesystem"
-    },
-    {
-      "name": "boost-system"
-    }
+    "boost-program-options",
+    "boost-filesystem",
+    "boost-system"
   ]
 }

@@ -1,0 +1,744 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::align::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__align-Debug-e90ab9217081e11d6a58.json",
+					"name" : "Boost::align",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::any::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__any-Debug-0785d8cce33b04ceacd8.json",
+					"name" : "Boost::any",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::assert::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__assert-Debug-fff4586e99cb269a454f.json",
+					"name" : "Boost::assert",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::atomic::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__atomic-Debug-ade73b8f322601ca3212.json",
+					"name" : "Boost::atomic",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::bind::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__bind-Debug-595dfebe2f5f4e49731c.json",
+					"name" : "Boost::bind",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::boost::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__boost-Debug-b0a7de64e28a56c9220e.json",
+					"name" : "Boost::boost",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::concept_check::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__concept_check-Debug-06d13d154350d074e368.json",
+					"name" : "Boost::concept_check",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::config::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__config-Debug-43bc29c50e550cc615db.json",
+					"name" : "Boost::config",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::container::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__container-Debug-3228beda10d700c66cf0.json",
+					"name" : "Boost::container",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::container_hash::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__container_hash-Debug-4c3e224ccdaeeafd07af.json",
+					"name" : "Boost::container_hash",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::core::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__core-Debug-249c5c48e58c16426199.json",
+					"name" : "Boost::core",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::describe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__describe-Debug-6fb8a8cdbf1844f98f9e.json",
+					"name" : "Boost::describe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::detail::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__detail-Debug-2cfdbb279f22cfd675b8.json",
+					"name" : "Boost::detail",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::diagnostic_definitions::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__diagnostic_definitions-Debug-287fc5709543b682e903.json",
+					"name" : "Boost::diagnostic_definitions",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::disable_autolinking::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__disable_autolinking-Debug-a6d07f1b7c55ffa39f37.json",
+					"name" : "Boost::disable_autolinking",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::dynamic_linking::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__dynamic_linking-Debug-586d7a374a2b42e5e43f.json",
+					"name" : "Boost::dynamic_linking",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::filesystem::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__filesystem-Debug-c097737d14886b8ac94e.json",
+					"name" : "Boost::filesystem",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::function::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__function-Debug-8eccbf7d1b63a26aba16.json",
+					"name" : "Boost::function",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::function_types::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__function_types-Debug-41f416e2d0aee4410cee.json",
+					"name" : "Boost::function_types",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::functional::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__functional-Debug-f1fa91d0e579518b56de.json",
+					"name" : "Boost::functional",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::fusion::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__fusion-Debug-27c4ae8da36e8519c24e.json",
+					"name" : "Boost::fusion",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::headers::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__headers-Debug-76eb8f92ce765ddf3b93.json",
+					"name" : "Boost::headers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::intrusive::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__intrusive-Debug-dfa5e96478b3e7318a9a.json",
+					"name" : "Boost::intrusive",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::io::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__io-Debug-37bee2b5de2eee065971.json",
+					"name" : "Boost::io",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::iterator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__iterator-Debug-7277e2f89f1164498903.json",
+					"name" : "Boost::iterator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::lexical_cast::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__lexical_cast-Debug-f6145df3fc6982af2ce3.json",
+					"name" : "Boost::lexical_cast",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::move::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__move-Debug-e241abeacc9b118a21ca.json",
+					"name" : "Boost::move",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::mp11::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__mp11-Debug-d9abab0520579b642a0b.json",
+					"name" : "Boost::mp11",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::mpl::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__mpl-Debug-3711a85dbc2ed5b6c5e5.json",
+					"name" : "Boost::mpl",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::optional::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__optional-Debug-1143f64687e58f17085b.json",
+					"name" : "Boost::optional",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::predef::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__predef-Debug-6c8a65bf50be756f6a81.json",
+					"name" : "Boost::predef",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::preprocessor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__preprocessor-Debug-3e2a4622c318a1e6235d.json",
+					"name" : "Boost::preprocessor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::program_options::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__program_options-Debug-1c9390b97f987886e33d.json",
+					"name" : "Boost::program_options",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::scope::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__scope-Debug-e69d0e82ec061705b2c1.json",
+					"name" : "Boost::scope",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::smart_ptr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__smart_ptr-Debug-ce120355728537d72612.json",
+					"name" : "Boost::smart_ptr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::static_assert::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__static_assert-Debug-289987739545f068ff15.json",
+					"name" : "Boost::static_assert",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::system::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__system-Debug-20c125f600ad03200e48.json",
+					"name" : "Boost::system",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::throw_exception::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__throw_exception-Debug-87e457d8c97b40d9f1a7.json",
+					"name" : "Boost::throw_exception",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::tokenizer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__tokenizer-Debug-513fbc6bae03d665774f.json",
+					"name" : "Boost::tokenizer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::tuple::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__tuple-Debug-80630e8d8bed110bc0b7.json",
+					"name" : "Boost::tuple",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::type_index::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__type_index-Debug-9ff2a5ce91abae9c7025.json",
+					"name" : "Boost::type_index",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::type_traits::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__type_traits-Debug-09c53c6dfe88142a3367.json",
+					"name" : "Boost::type_traits",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::typeof::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__typeof-Debug-489c0ec78444a7934eed.json",
+					"name" : "Boost::typeof",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::utility::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__utility-Debug-8519fafe90de557dfbdd.json",
+					"name" : "Boost::utility",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::variant2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__variant2-Debug-4a38048f0556fa30889f.json",
+					"name" : "Boost::variant2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Boost::winapi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Boost__winapi-Debug-0b1e8f6fd010ed13f9be.json",
+					"name" : "Boost::winapi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Threads::Threads::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Threads__Threads-Debug-84f3e1ddda9f4f8c0718.json",
+					"name" : "Threads::Threads",
+					"projectIndex" : 0
+				}
+			],
+			"directories" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46
+					],
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f6f22219c74102c3da70.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lab7",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Continuous::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Continuous-Debug-ef866e5487c4665145c3.json",
+					"name" : "Continuous",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ContinuousBuild::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ContinuousBuild-Debug-c0f850af70548fe21cd7.json",
+					"name" : "ContinuousBuild",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ContinuousConfigure::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ContinuousConfigure-Debug-6d44a656574cec603fbd.json",
+					"name" : "ContinuousConfigure",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ContinuousCoverage::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ContinuousCoverage-Debug-c5b8fbc2bf7dfbea6643.json",
+					"name" : "ContinuousCoverage",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ContinuousMemCheck::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ContinuousMemCheck-Debug-7d7d46cb91bba9003f79.json",
+					"name" : "ContinuousMemCheck",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ContinuousStart::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ContinuousStart-Debug-19c1ad1e4287740e9f76.json",
+					"name" : "ContinuousStart",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ContinuousSubmit::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ContinuousSubmit-Debug-7eb78d057dd0a734b19c.json",
+					"name" : "ContinuousSubmit",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ContinuousTest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ContinuousTest-Debug-49e8fa5563a0f88aa0b5.json",
+					"name" : "ContinuousTest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ContinuousUpdate::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ContinuousUpdate-Debug-f7906ca8b79046526a69.json",
+					"name" : "ContinuousUpdate",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Experimental::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Experimental-Debug-342599e5404a5dc97318.json",
+					"name" : "Experimental",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ExperimentalBuild::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExperimentalBuild-Debug-6530ba8b00cb7bce0338.json",
+					"name" : "ExperimentalBuild",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ExperimentalConfigure::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExperimentalConfigure-Debug-b23afc79fcdd0cd9b8be.json",
+					"name" : "ExperimentalConfigure",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ExperimentalCoverage::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExperimentalCoverage-Debug-a7c0c6291e21a7edc3ad.json",
+					"name" : "ExperimentalCoverage",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ExperimentalMemCheck::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExperimentalMemCheck-Debug-7ec35dfb83f9d542c7c2.json",
+					"name" : "ExperimentalMemCheck",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ExperimentalStart::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExperimentalStart-Debug-94740224daf9eb792abe.json",
+					"name" : "ExperimentalStart",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ExperimentalSubmit::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExperimentalSubmit-Debug-09d2ee1fcd041dd42643.json",
+					"name" : "ExperimentalSubmit",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ExperimentalTest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExperimentalTest-Debug-64cfd575929d85b6fc57.json",
+					"name" : "ExperimentalTest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ExperimentalUpdate::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExperimentalUpdate-Debug-dba2c31c17a3a8314347.json",
+					"name" : "ExperimentalUpdate",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Nightly::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Nightly-Debug-938e2d9331f7bd3b1d8f.json",
+					"name" : "Nightly",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NightlyBuild::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NightlyBuild-Debug-9e040b1b650073d577fb.json",
+					"name" : "NightlyBuild",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NightlyConfigure::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NightlyConfigure-Debug-3a441fa2d077b6a1e984.json",
+					"name" : "NightlyConfigure",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NightlyCoverage::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NightlyCoverage-Debug-eca3fcbf6e9cd65bc117.json",
+					"name" : "NightlyCoverage",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NightlyMemCheck::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NightlyMemCheck-Debug-a221f86cc8067603623b.json",
+					"name" : "NightlyMemCheck",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NightlyMemoryCheck::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NightlyMemoryCheck-Debug-ecf12654ad75af802a10.json",
+					"name" : "NightlyMemoryCheck",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NightlyStart::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NightlyStart-Debug-f200010d943de235986a.json",
+					"name" : "NightlyStart",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NightlySubmit::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NightlySubmit-Debug-9577e8447dbab38aafea.json",
+					"name" : "NightlySubmit",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NightlyTest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NightlyTest-Debug-46b16a75ea6880c3106d.json",
+					"name" : "NightlyTest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NightlyUpdate::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NightlyUpdate-Debug-3168dc71f88510f52b90.json",
+					"name" : "NightlyUpdate",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bayan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bayan-Debug-623720dee14ab5951a9b.json",
+					"name" : "bayan",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/CPP2025/lab7/build",
+		"source" : "C:/CPP2025/lab7"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	}
+}
