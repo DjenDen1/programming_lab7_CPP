@@ -21,8 +21,9 @@ jobs:
             Remove-Item -Recurse -Force build
           }
 
+      # На Windows-раннерах GitHub Actions предустановлен vcpkg, используем его Boost
       - name: Configure CMake
-        run: cmake -S . -B build
+        run: cmake -S . -B build -DCMAKE_TOOLCHAIN_FILE="C:/vcpkg/scripts/buildsystems/vcpkg.cmake"
 
       - name: Build with CMake
         run: cmake --build build --config Release
@@ -42,10 +43,11 @@ jobs:
       - name: Clean build directory
         run: rm -rf build
 
+      # Добавлен пакет libboost-all-dev для исправления ошибки из логов
       - name: Install dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y build-essential cmake
+          sudo apt-get install -y build-essential cmake libboost-all-dev
       
       - name: Configure CMake
         run: cmake -S . -B build
