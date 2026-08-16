@@ -21,7 +21,11 @@ jobs:
             Remove-Item -Recurse -Force build
           }
 
-      # На Windows-раннерах GitHub Actions предустановлен vcpkg, используем его Boost
+      - name: Setup vcpkg
+        uses: lukka/run-vcpkg@v11
+        with:
+          vcpkgDirectory: 'C:/vcpkg'
+
       - name: Configure CMake
         run: cmake -S . -B build -DCMAKE_TOOLCHAIN_FILE="C:/vcpkg/scripts/buildsystems/vcpkg.cmake"
 
