@@ -21,10 +21,9 @@ jobs:
             Remove-Item -Recurse -Force build
           }
 
-      - name: Setup vcpkg
-        uses: lukka/run-vcpkg@v11
-        with:
-          vcpkgDirectory: 'C:/vcpkg'
+      - name: Install Boost via vcpkg
+        run: |
+          C:/vcpkg/vcpkg.exe install boost-program-options:x64-windows boost-filesystem:x64-windows boost-system:x64-windows
 
       - name: Configure CMake
         run: cmake -S . -B build -DCMAKE_TOOLCHAIN_FILE="C:/vcpkg/scripts/buildsystems/vcpkg.cmake"
@@ -36,7 +35,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: windows-build
-          path: build/Release/bayan.exe 
+          path: build/Release/bayan.exe
 
   build-linux:
     runs-on: ubuntu-latest
@@ -47,7 +46,6 @@ jobs:
       - name: Clean build directory
         run: rm -rf build
 
-      # Добавлен пакет libboost-all-dev для исправления ошибки из логов
       - name: Install dependencies
         run: |
           sudo apt-get update
