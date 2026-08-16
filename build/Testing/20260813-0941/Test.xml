@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-ninja"
+	BuildStamp="20260813-0941-Experimental"
+	Name="DESKTOP-FB951CI"
+	Generator="ctest-4.2.0"
+	CompilerName="C:/msys64/mingw64/bin/c++.exe"
+	CompilerVersion="15.2.0"
+	OSName="Windows"
+	Hostname="DESKTOP-FB951CI"
+	OSRelease="10.0.26200"
+	OSVersion="Windows 10"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString=""
+	VendorID="Unknown Manufacturer"
+	FamilyID="0"
+	ModelID="0"
+	ModelName=""
+	ProcessorCacheSize="0"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="17132"
+	TotalPhysicalMemory="16108"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="2000"
+	>
+	<Testing>
+		<StartDateTime>Aug 16 15:20 RTZ 6 ([NON-UTF-8-BYTE-0xE7][NON-UTF-8-BYTE-0xE8][NON-UTF-8-BYTE-0xEC][NON-UTF-8-BYTE-0xE0])</StartDateTime>
+		<StartTestTime>1786868444</StartTestTime>
+		<TestList/>
+		<EndDateTime>Aug 16 15:20 RTZ 6 ([NON-UTF-8-BYTE-0xE7][NON-UTF-8-BYTE-0xE8][NON-UTF-8-BYTE-0xEC][NON-UTF-8-BYTE-0xE0])</EndDateTime>
+		<EndTestTime>1786868444</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
