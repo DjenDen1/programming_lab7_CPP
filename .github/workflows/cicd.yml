@@ -21,10 +21,10 @@ jobs:
             Remove-Item -Recurse -Force build
           }
 
-      # Установка полного набора библиотек Boost во избежание ошибок компиляции заголовков
+      # Установка только необходимых компонентов Boost (включая crc и algorithm)
       - name: Install Boost via vcpkg
         run: |
-          C:/vcpkg/vcpkg.exe install boost-modular --triplet x64-windows
+          C:/vcpkg/vcpkg.exe install boost-program-options boost-filesystem boost-system boost-crc boost-algorithm --triplet x64-windows
 
       - name: Configure CMake
         run: cmake -S . -B build -DCMAKE_TOOLCHAIN_FILE="C:/vcpkg/scripts/buildsystems/vcpkg.cmake"
